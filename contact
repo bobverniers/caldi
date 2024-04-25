@@ -1,0 +1,100 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+
+</title><link href="Css/MasterStyle.css" rel="stylesheet" type="text/css" /><link href="Css/Tagless.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NK4BMSFN1Z"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-NK4BMSFN1Z');
+    </script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="https://www.caldiefreddi.nl/Contact.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg5NjE3MjE4Mg9kFgJmD2QWAgIDD2QWAgIODw8WBB4IQ3NzQ2xhc3MFCkgyU2VsZWN0ZWQeBF8hU0ICAmRkZLADzX0hhlFeRjSO6TNrKeCXxFOU5vJBdMMoBPRtQRaV" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CD2448B2" />
+        <div id="outer">
+            <div id="header">
+                <a id="ctl00_HypWebsiteLogo" href="index.html"><img id="ctl00_ImgWebsiteLogo" class="Logo" src="Images/Design/Header.jpg" border="0" /></a>
+            </div>
+            <div id="subheader">
+                <div class="FlL">
+
+                    <a id="ctl00_Hyp_Home" class="H2" href="home">Home</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInEnglish" class="H2" href="menuinenglish">Menu in English</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInDutch" class="H2" href="menuinhetnederlands">Menu in het Nederlands</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInItalian" class="H2" href="menuinitaliano">Menu in Italiano</a><div class="HorizontalSeparator">|</div>
+                    
+                    <a id="ctl00_Hyp_Contact" class="H2Selected" href="contact">Contact</a>
+                    <div class="OpeningHours" style="font-weight:bold;">Mon-Fri: 9.00-17.30 * Sat-Sun: closed</div>
+                </div>
+            </div>
+            <div id="c1">
+                
+
+    <table class="ContactData">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">Caldi e freddi &#8226;  Italian specialties</td>
+        </tr>
+        <tr>
+            <td class="Key"><img src="Images/Contact/Address.png" alt="Address" /></td>
+            <td class="Value">Spuistraat 102, 1012VA Amsterdam</td>
+        </tr>
+        <tr>
+            <td class="Key"><img src="Images/Contact/Phone.png" alt="Phone number" /></td>
+            <td class="Value">+31 20 3202024</td>
+        </tr>
+        <tr>
+            <td class="Key"><img src="Images/Contact/Mobile.png" alt="Mobile number" /></td>
+            <td class="Value">+31 6 38635518</td>
+        </tr>
+        <tr>
+            <td class="Key"><img src="Images/Contact/Email.png" alt="Email address" /></td>
+            <td class="Value">info@caldiefreddi.nl</td>
+        </tr>
+        <tr>
+            <td class="Key"><img src="Images/Contact/Website.png" alt="Website" /></td>
+            <td class="Value">www.caldiefreddi.nl</td>
+        </tr>
+        
+        <tr>
+            <td class="Key"><img src="Images/Contact/Whatsapp.png" alt="Whatsapp" /></td>
+            <td class="Value">+31 6 38635518</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="Value">
+                <img src="Images/Editorials/Employees01.jpg" alt="At work" style="margin: 0px; "/>
+            </td>
+        </tr>
+    </table>
+
+    
+
+            </div>
+            <div id="c2">
+                
+    <img id="ctl00_CphRightColumn_Rc01" src="Images/Rc/RC01.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc02" src="Images/Rc/RC02.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc03" src="Images/Rc/RC03.jpg" border="0" />
+
+            </div>
+            <div id="footer" class="Fs13">
+                Caldi e freddi &#8226; Spuistraat 102, 1012VA Amsterdam &#8226; Tel: 020 3202024 &#8226; Mob: 06 38635518 &#8226; Email: info@caldiefreddi.nl
+            </div>
+        </div>
+    </form>
+
+
+</body>
+</html>

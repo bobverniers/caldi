@@ -1,0 +1,103 @@
+
+
+.header_image {
+    width: 100%;
+    transform: scale(1.5); /* Adjust scale value to control zoom level */
+    transform-origin: center center; /* Ensures the zoom centers on the middle of the image */
+    margin-bottom: 20px;
+}
+
+
+/* Define classes for the menu table */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+th {
+    background-color: #336699;
+    color: white;
+    text-align: left;
+    height: 30px;
+}
+
+table, th, td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+
+/* Header Styles */
+table.Menu th.header {
+    background-color: #336699;
+    color: white;
+    text-align: left;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    vertical-align: middle;
+    border-bottom: 0px;
+}
+
+
+/* Background Images for Header Corners */
+table.Menu th.HeaderLeft {
+    background-image: url(../Images/Design/EditorialCornerLeft.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    padding: 0px 5px 0px 40px;
+}
+
+
+td:first-child {
+    width: 25%; /* Adjust the percentage as needed */
+}
+
+td:nth-child(2) {
+    width: 60%; /* Adjust the percentage as needed */
+}
+
+td:last-child {
+    width: 15%; /* Adjust the percentage as needed */
+}
+
+.item-name {
+    width: 179px;
+    border-top: 1px solid #d9d9d9;
+    border-right: 1px solid #d9d9d9;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.item-price {
+    width: 40px; 
+    border-top: 1px solid #d9d9d9; 
+    padding: 5px 5px 5px 2px; 
+    text-align: right; }
+
+.item-description {
+    width: 379px;
+    border-top: 1px solid #d9d9d9;
+    padding: 5px;
+    font-style: normal;
+}
+
+
+/* Class for general text and padding in the table cell */
+.table-info {
+    padding: 10px;
+    font-size: 14px;
+}
+
+/* Class for emphasis text with bold and red color */
+.important-text {
+    color: red;
+    font-weight: bold;
+}
+
+/* Class for unordered list style inside table cells */
+.info-bullet {
+    list-style-type: none; /* Optional: hides the default bullet points */
+    padding-left: 0; /* Optional: removes default padding if needed */
+}
+

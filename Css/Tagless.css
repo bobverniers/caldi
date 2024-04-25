@@ -1,0 +1,191 @@
+﻿/* Float */
+.FlL{float:left;}
+.FlR{float:right;}
+.FlN{float:none;}
+
+/* Clear */
+.ClL{clear:left;}
+.ClR{clear:right;}
+.ClN{clear:none;}
+.ClB{clear:both;}
+
+/* Widths */
+.W5{width:5px;}
+.W10{width:10px;}
+.W15{width:15px;}
+.W25{width:25px;}
+.W50{width:50px;}
+.W75{width:75px;}
+.W100{width:100px;}
+.W150{width:150px;}
+.W200{width:200px;}
+.W250{width:250px;}
+.W300{width:325px;}
+.W325{width:370px;}
+.W350{width:350px;}
+.W400{width:400px;}
+.W468{width:468px;}
+.W500{width:500px;}
+.W700{width:700px;}
+.W900{width:900px;}
+.WFull{width:1240px;}
+.W100P{width:100%;}
+
+/* Minimum widths */
+.mW5{min-width:5px;}
+.mW10{min-width:10px;}
+.mW15{min-width:15px;}
+.mW25{min-width:25px;}
+.mW50{min-width:50px;}
+.mW75{min-width:75px;}
+.mW150{min-width:150px;}
+.mW200{width:200px;}
+.mW250{min-width:250px;}
+.mW468{min-width:468px;}
+.mW500{min-width:500px;}
+.mW700{min-width:700px;}
+.mW900{min-width:900px;}
+.mWFull{min-width:1240px;}
+
+/* Heights */
+.H5{height:5px;}
+.H10{height:10px;}
+.H15{height:15px;}
+.H25{height:25px;}
+.H50{height:50px;}
+.H75{height:75px;}
+.H100{height:100px;}
+.H150{height:150px;}
+.H200{height:200px;}
+.H250{height:250px;}
+.H400{height:400px;}
+.H468{height:468px;}
+.H500{height:500px;}
+.H700{height:700px;}
+.H900{height:900px;}
+.HFull{height:1240px;}
+
+/* Text enhancements */
+.B{font-weight:bold;}
+.U{text-decoration:underline;}
+.I{font-style:italic;}
+
+
+/*Font sizes*/
+.Fs10{font-size:10px;}
+.Fs11{font-size:11px;}
+.Fs12{font-size:12px;}
+.Fs13{font-size:13px;}
+.Fs14{font-size:14px;}
+.Fs16{font-size:16px;}
+
+/* Margin top */
+.Mt0{margin-top:0px;}
+.Mt1{margin-top:1px;}
+.Mt5{margin-top:5px;}
+.Mt10{margin-top:10px;}
+.Mt15{margin-top:15px;}
+.Mt25{margin-top:25px;}
+.Mt50{margin-top:50px;}
+.Mt75{margin-top:75px;}
+.Mt150{margin-top:150px;}
+
+/* Margin bottom */
+.Mb0{margin-bottom:0px;}
+.Mb1{margin-bottom:1px;}
+.Mb5{margin-bottom:5px;}
+.Mb10{margin-bottom:10px;}
+.Mb15{margin-bottom:15px;}
+.Mb25{margin-bottom:25px;}
+.Mb50{margin-bottom:50px;}
+.Mb75{margin-bottom:75px;}
+.Mb150{margin-bottom:150px;}
+
+/* Margin right */
+.Mr0{margin-right:0px;}
+.Mr1{margin-right:1px;}
+.Mr5{margin-right:5px;}
+.Mr10{margin-right:10px;}
+.Mr15{margin-right:15px;}
+.Mr25{margin-right:25px;}
+.Mr50{margin-right:50px;}
+.Mr75{margin-right:75px;}
+.Mr150{margin-right:150px;}
+
+/* Margin left */
+.Ml0{margin-left:0px;}
+.Ml5{margin-left:5px;}
+.Ml10{margin-left:10px;}
+.Ml15{margin-left:15px;}
+.Ml25{margin-left:25px;}
+.Ml50{margin-left:50px;}
+.Ml75{margin-left:75px;}
+.Ml150{margin-left:150px;}
+
+/* Margin right */
+.Pr0{padding-right:0px;}
+.Pr1{padding-right:1px;}
+.Pr5{padding-right:5px;}
+.Pr10{padding-right:10px;}
+.Pr15{padding-right:15px;}
+.Pr25{padding-right:25px;}
+.Pr50{padding-right:50px;}
+.Pr75{padding-right:75px;}
+.Pr150{padding-right:150px;}
+
+/* Margin left */
+.Pl0{padding-left:0px;}
+.Pl5{padding-left:5px;}
+.Pl10{padding-left:10px;}
+.Pl15{padding-left:15px;}
+.Pl25{padding-left:25px;}
+.Pl50{padding-left:50px;}
+.Pl75{padding-left:75px;}
+.Pl150{padding-left:150px;}
+
+/* Margin bottom */
+.Mb2{margin-bottom:2px;}
+.Mb3{margin-bottom:3px;}
+.Mb4{margin-bottom:4px;}
+.Mb5{margin-bottom:5px;}
+.Mb10{margin-bottom:10px;}
+.Mb15{margin-bottom:15px;}
+.Mb20{margin-bottom:20px;}
+.Mb25{margin-bottom:25px;}
+.Mb30{margin-bottom:30px;}
+.Mb50{margin-bottom:50px;}
+.Mb75{margin-bottom:75px;}
+.Mb150{margin-bottom:150px;}
+
+/* Margin top */
+.Mt2{margin-top:2px;}
+.Mt3{margin-top:3px;}
+.Mt4{margin-top:4px;}
+.Mt5{margin-top:5px;}
+.Mt10{margin-top:10px;}
+.Mt15{margin-top:15px;}
+.Mt25{margin-top:25px;}
+.Mt30{margin-top:30px;}
+.Mt50{margin-top:50px;}
+.Mt75{margin-top:75px;}
+.Mt150{margin-top:150px;}
+
+/* Background Colors */
+.BgDisabled{background-color:#cccccc;}
+.BgSearchString{ background-color:#ffffcc;}
+
+/* Colors */
+.FcDisabled{color:#999999;}
+.FcRed{color:#cc0000;}
+.FcBlue{color:#336699;}
+.FcDarkGray{color:#333333;}
+
+/* Text alignments */
+.TaL{text-align:left;}
+.TaC{text-align:center;}
+.TaR{text-align:right;}
+.TaJ{text-align:justify;}
+
+
+
+.Highlight{background:yellow;}

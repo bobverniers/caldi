@@ -1,0 +1,500 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+
+</title><link href="Css/MasterStyle.css" rel="stylesheet" type="text/css" /><link href="Css/Tagless.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NK4BMSFN1Z"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-NK4BMSFN1Z');
+    </script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="https://www.caldiefreddi.nl/MenuItalian.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIODY5MTkyMjQPZBYCZg9kFgICAw9kFgQCCw8PFgQeCENzc0NsYXNzBQpIMlNlbGVjdGVkHgRfIVNCAgJkZAIQD2QWDAIDDxYCHgtfIUl0ZW1Db3VudAILFhZmD2QWAmYPFQMEQWxiYSxQcm92b2xhIHBpY2NhbnRlLCBydWNvbGEsIHBlcGVyb25pIGdyaWdsaWF0aQQ0LDkwZAIBD2QWAmYPFQMKQ29sbGVwYXNzby9MYXR0dWdhLCBwcm92b2xhIGFmZnVtaWNhdGEsIHBlcGVyb25pIGdyaWdsaWF0aQQ0LDkwZAICD2QWAmYPFQMKR29yZ29uem9sYStDcmVtYSBkaSBnb3Jnb256b2xhLCBsYXR0dWdhLCBzYWxzYSBkaSBub2NpBDQsOTBkAgMPZBYCZg8VAwZEZXJ1dGE2Q3JlbWEgZGkgc3RyYWNjaGlubyBlIHJ1Y29sYSwgbGF0dHVnYSwgcG9tb2Rvcmkgc2VjY2hpBDQsOTBkAgQPZBYCZg8VAwhNb25kZWxsbyVNb3p6YXJlbGxhIGRpIGJ1ZmFsYSwgcG9tb2RvcmksIHBlc3RvBDQsOTBkAgUPZBYCZg8VAwlQYWxvbW9udGUqUHJvdm9sYSBkb2xjZSwgcnVjb2xhLCBtZWxhbnphbmUgZ3JpZ2xpYXRlBDQsOTBkAgYPZBYCZg8VAwdSYXBhbGxvGkxhdHR1Z2EsIHZlcmR1cmUgZ3JpZ2xpYXRlBDQsOTBkAgcPZBYCZg8VAwZTcGVsbG8tQ3JlbWEgc3RyYWNjaGlubyBlIHRhcnR1Zm8sIGxhdHR1Z2EsIHp1Y2NoaW5lBDQsOTBkAggPZBYCZg8VAwRUb2RpHlN0cmFjY2hpbm8sIHJ1Y29sYSwgb2xpbywgcGVwZQQ0LDkwZAIJD2QWAmYPFQMFVHJldmkoR3JhbmEgcGFkYW5vLCBsYXR0dWdhLCB2ZXJkdXJlIGdyaWdsaWF0ZQQ0LDkwZAIKD2QWAmYPFQMIVmVsbGV0cmkrUGVjb3Jpbm8gcm9tYW5vLCBydWNvbGEsIHp1Y2NoaW5lIGdyaWdsaWF0ZQQ0LDkwZAIFDxYCHwICDxYeZg9kFgJmDxUDBkFtYWxmaSFMYXR0dWdhLCBhbGljaSBtYXJpbmF0ZSwgcG9tb2Rvcm8ENCw5MGQCAQ9kFgJmDxUDB0FuZHJhbm8fTW9ydGFkZWxsYSwgbWVsYW56YW5lIGdyaWdsaWF0ZQQ0LDkwZAICD2QWAmYPFQMGQXJwaW5vIVBhbmNldHRhLCBydWNvbGEsIHBvbW9kb3JpIHNlY2NoaQQ0LDkwZAIDD2QWAmYPFQMHQ2FyaWF0aTNTcGlhbmF0YSBjYWxhYnJlc2UsIGNhY2lvY2F2YWxsbywgbGF0dHVnYSwgcG9tb2Rvcm8ENCw5MGQCBA9kFgJmDxUDB0NvcnRvbmEtUHJvc2NpdXR0byBjcnVkbywgbW96emFyZWxsYSwgcG9tb2RvcmksIHBlc3RvBDQsOTBkAgUPZBYCZg8VAwdDb3N0YW5vJFBvcmNoZXR0YSwgbGF0dHVnYSwgY2FyY2lvZmkgaW4gb2xpbwQ0LDkwZAIGD2QWAmYPFQMGR3ViYmlvJFByb3NjaXV0dG8gY3J1ZG8sIHJ1Y29sYSwgc3RyYWNjaGlubwQ0LDkwZAIHD2QWAmYPFQMITWFkZXNpbW8yQnJlc2FvbGEsIGdyYW5hIHBhZGFubywgcnVjb2xhLCBsaW1vbmUsIG9saW8sIHBlcGUENCw5MGQCCA9kFgJmDxUDBVBhcm1hLFByb3NjaXV0dG8gZGkgUGFybWEsIHByb3ZvbGEgZG9sY2UsIHBvbW9kb3JvBDQsOTBkAgkPZBYCZg8VAwdSb3NzYW5vK1NhbGFtZSBhZ2xpYXRvLCBsYXR0dWdhLCBwZXBlcm9uaSBncmlnbGlhdGkENCw5MGQCCg9kFgJmDxUDB1Nwb2xldG87U3BpYW5hdGEgcm9tYW5hLCBwcm92b2xhIGRvbGNlLCBydWNvbGEsIG1lbGFuemFuZSBncmlnbGlhdGUENCw5MGQCCw9kFgJmDxUDCFRhb3JtaW5hGkluc2FsYXRhIGRpIHRvbm5vLCBsYXR0dWdhBDQsOTBkAgwPZBYCZg8VAwVUcmFuaSVNb3J0YWRlbGxhLCBwcm92b2xhIHBpY2NhbnRlLCBsYXR0dWdhBDQsOTBkAg0PZBYCZg8VAwZWZW5vc2E3U2Fsc2EgZGkgdGFsZWdnaW8gZSBydWNvbGEsIGxhdHR1Z2EsIHNwZWNrIGFsdG8gYXRlc2lubwQ0LDkwZAIOD2QWAmYPFQMJVmlsbGFub3ZhLENvcHBhIGRpIFBhcm1hLCBsYXR0dWdhLCBmb3JtYWdnaW8gZGkgQXNpYWdvBDQsOTBkAgcPFgIfAgIDFgZmD2QWAmYPFQMWTGFzYWduZSBhbGxhIGJvbG9nbmVzZSdMYXNhZ25lIGNvbiByYWfDuSBkaSBtYWlhbGUgZSB2aXRlbGxvbmUENiw1MGQCAQ9kFgJmDxUDGExhc2FnbmUgZnVuZ2hpIGUgdHJhdHVmbytMYXNhZ25lIGJpYW5jaGUgY29uIGZ1bmdoaSBlIHNhbHNhIHRhcnVmYXRhBDYsNTBkAgIPZBYCZg8VAxlNZWxhbnphbmUgYWxsYSBwYXJtaWdpYW5hQVBhcm1pZ2lhbmEgZGkgbWVsYW56YW5lIHNvZmZyaXR0ZSBpbiBvbGlvIGUgYWJib25kYW50ZSBtb3p6YXJlbGxhBDYsNTBkAgkPFgIfAgIGFgxmD2QWAmYPFQMQUmF2aW9saSBhbCBwZXN0b0dSYXZpb2xpIGNvbiByaXBpZW5vIGRpIHJpY290dGEgZSBwcmV6emVtb2xvIGUgY29uZGl0aSBjb24gcGVzdG8gZnJlc2NvLgQ3LDAwZAIBD2QWAmYPFQMSUmF2aW9saSBhbCB0YXJ0dWZvUVJhdmlvbGkgY29uIHJpcGllbm8gZGkgcmljb3R0YSBlIHByZXp6ZW1vbG8gZSBjb25kaXRpIGNvbiBzYWxzYSBmdW5naGkgZSB0YXJ0dWZvLgQ3LDAwZAICD2QWAmYPFQMbR25vY2NoaSBwb21vZG9ybyBlIGJhc2lsaWNvTEdub2NjaGkgY29uZGl0aSBjb24gc2Fsc2EgZGkgcG9tb2Rvcm8gZSBiYXNpbGljbyBlIGNvc3BhcnNpIGRpIGdyYW5hIHBhZGFuby4ENiwwMGQCAw9kFgJmDxUDFkZ1c2lsbGkgYWxsJ2FycmFiYmlhdGEyRnVzaWxsaSBjb25kaXRpIGNvbiB1bmEgc2Fsc2EgYWwgcG9tb2Rvcm8gcGljY2FudGUENiwwMGQCBA9kFgJmDxUDFUZ1c2lsbGkgYWwgR29yZ29uem9sYTRGdXNpbGxpIGNvbmRpdGkgY29uIHVuYSBkZWxpY2F0YSBjcmVtYSBhbCBHb3Jnb256b2xhBDYsMDBkAgUPZBYCZg8VAxpUYWdsaWF0ZWxsZSBhbGxhIEJvbG9nbmVzZUFUYWdsaWF0ZWxsZSBhbGwndW92byBjb25kaXRlIGNvbiB1bmEgdHJhZGl6aW9uYWxlIHNhbHNhIEJvbG9nbmVzZQQ2LDAwZAILDxYCHwICBhYMZg9kFgJmDxUDEFBpenphIG1hcmdoZXJpdGElTW96emFyZWxsYSBmcmVzY2EgZSBwb2xwYSBkaSBwb21vZG9ybwQyLDgwZAIBD2QWAmYPFQMPUGl6emEgYWwgc2FsYW1lOE1venphcmVsbGEgZnJlc2NhLCBwb2xwYSBkaSBwb21vZG9ybyBlIHNwaWFuYXRhIHBpY2NhbnRlBDIsODBkAgIPZBYCZg8VAxFQaXp6YSB2ZWdldGFyaWFuYUBNb3p6YXJlbGxhIGZyZXNjYSwgcG9scGEgZGkgcG9tb2Rvcm8sIHJ1Y29sYSBlIHZlcmR1cmUgZ3JpZ2xpYXRlBDIsODBkAgMPZBYCZg8VAxJDYWx6b25lIG1hcmdoZXJpdGEbQ2Fsem9uZSBtYXJnaGVyaXRhIGFsIGZvcm5vBDIsODBkAgQPZBYCZg8VAxFDYWx6b25lIGNhbGFicmVzZTFDYWx6b25lIGNvbiBtb3p6YXJlbGxhIGUgc2FsYW1lIHBpY2NhbnRlIGFsIGZvcm5vBDIsODBkAgUPZBYCZg8VAw9SdXN0aWNvIExlY2Nlc2U4UGFzdGEgc2ZvZ2xpYSBmYXJjaXRhIGNvbiBwb2xwYSBkaSBwb21vZG9ybyBlIG1venphcmVsbGEEMiw4MGQCDQ8WAh8CAgoWFGYPZBYCZg8VAw9DYWZmw6ggZXNwcmVzc28hRXF1aWxpYnJpbyB0cmEgcm9idXN0YSBlZCBhcmFiaWNhBDEsMjBkAgEPZBYCZg8VAxBDYWZmw6ggYW1lcmljYW5vEk1vcmJpZG8gZSBkZWxpY2F0bwQxLDIwZAICD2QWAmYPFQMKQ2FwcHVjY2lubzxMYSBmb3J6YSBkZWxsJ2VzcHJlc3NvIGUgbGEgZGVsaWNhdGV6emEgZGVsbGEgY3JlbWEgZGkgbGF0dGUEMSw3MGQCAw9kFgJmDxUDD0xhdHRlIG1hY2NoaWF0byRMYXR0ZSBpbnRlcm8gY29uIHVuIHZlbG8gZGkgZXNwcmVzc28EMSw3MGQCBA9kFgJmDxUDDkNvcm5ldHRvIHZ1b3RvE01vcmJpZG8gZSBmcmFncmFudGUEMSwzMGQCBQ9kFgJmDxUDEENvcm5ldHRvIGZhcmNpdG8oQ29uIGZhcmNpdHVyYSBhbGxhIGNyZW1hIG8gYWwgY2lvY2NvbGF0bwQxLDgwZAIGD2QWAmYPFQMRQ2Fubm9sbyBzaWNpbGlhbm83Q29uIGZhcmNpdHVyYSB0cmFkaXppb25hbGUgYWxsYSByaWNvdHRhIG8gYWwgY2lvY2NvbGF0bwQyLDgwZAIHD2QWAmYPFQMWQ2Fubm9saWNjaGlvIHNpY2lsaWFubzdDb24gZmFyY2l0dXJhIHRyYWRpemlvbmFsZSBhbGxhIHJpY290dGEgbyBhbCBjaW9jY29sYXRvBDEsNTBkAggPZBYCZg8VAwlUaXJhbWlzw7kvU2Vjb25kbyBsYSByaWNldHRhIHRyYWRpemlvbmFsZSBvIGFsIGxpbW9uY2VsbG8EMiw4MGQCCQ9kFgJmDxUDC1Bhbm5hIGNvdHRhOkxlZ2dlcmEgcGFubmEgY290dGEgcmljb3BlcnRhIGRpIGdsYXNzYSBkaSBmcnV0dGkgZGkgYm9zY28EMiw4MGRkqdIlAhfgsBgYyNPyofghOxIbhvQLtJE3z2g4KmoBvgc=" />
+
+
+<script src="ScriptResource.axd?d=VABHv6x4mYeNNK8oyEPO8d8jA4SrQ_oIIICFUEncwlPTIC5OVU5v9HHwWdpqraPvjud_exbCEmhqg0BKkSRBAMyYuRTGiGFPGItH5Gf6Voho7wqzpkPNUQvGPaRgRhse5yff1EIWvfPqBc02WfF--bIdA5whFSnOIkt_1K9thoZOClE2CvH9w37em2K0n6JC0&amp;t=74258c30" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CF5F59A2" />
+        <div id="outer">
+            <div id="header">
+                <a id="ctl00_HypWebsiteLogo" href="index.html"><img id="ctl00_ImgWebsiteLogo" class="Logo" src="Images/Design/Header.jpg" border="0" /></a>
+            </div>
+            <div id="subheader">
+                <div class="FlL">
+
+                    <a id="ctl00_Hyp_Home" class="H2" href="home">Home</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInEnglish" class="H2" href="menuinenglish">Menu in English</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInDutch" class="H2" href="menuinhetnederlands">Menu in het Nederlands</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInItalian" class="H2Selected" href="menuinitaliano">Menu in Italiano</a><div class="HorizontalSeparator">|</div>
+                    
+                    <a id="ctl00_Hyp_Contact" class="H2" href="contact">Contact</a>
+                    <div class="OpeningHours" style="font-weight:bold;">Mon-Fri: 9.00-17.30 * Sat-Sun: closed</div>
+                </div>
+            </div>
+            <div id="c1">
+                
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Panini vegetariani
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Alba</td>
+                        <td class="ItemDescription">Provola piccante, rucola, peperoni grigliati</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Collepasso</td>
+                        <td class="ItemDescription">Lattuga, provola affumicata, peperoni grigliati</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Gorgonzola</td>
+                        <td class="ItemDescription">Crema di gorgonzola, lattuga, salsa di noci</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Deruta</td>
+                        <td class="ItemDescription">Crema di stracchino e rucola, lattuga, pomodori secchi</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Mondello</td>
+                        <td class="ItemDescription">Mozzarella di bufala, pomodori, pesto</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Palomonte</td>
+                        <td class="ItemDescription">Provola dolce, rucola, melanzane grigliate</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Rapallo</td>
+                        <td class="ItemDescription">Lattuga, verdure grigliate</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Spello</td>
+                        <td class="ItemDescription">Crema stracchino e tartufo, lattuga, zucchine</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Todi</td>
+                        <td class="ItemDescription">Stracchino, rucola, olio, pepe</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Trevi</td>
+                        <td class="ItemDescription">Grana padano, lattuga, verdure grigliate</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Velletri</td>
+                        <td class="ItemDescription">Pecorino romano, rucola, zucchine grigliate</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+    </table>
+
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Panini con salumi
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Amalfi
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Lattuga, alici marinate, pomodoro</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Andrano
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Mortadella, melanzane grigliate</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Arpino
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Pancetta, rucola, pomodori secchi</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cariati
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Spianata calabrese, caciocavallo, lattuga, pomodoro</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cortona
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Prosciutto crudo, mozzarella, pomodori, pesto</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Costano
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Porchetta, lattuga, carciofi in olio</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Gubbio
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Prosciutto crudo, rucola, stracchino</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Madesimo
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Bresaola, grana padano, rucola, limone, olio, pepe</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Parma
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Prosciutto di Parma, provola dolce, pomodoro</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Rossano
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Salame agliato, lattuga, peperoni grigliati</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Spoleto
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Spianata romana, provola dolce, rucola, melanzane grigliate</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Taormina
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Insalata di tonno, lattuga</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Trani
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Mortadella, provola piccante, lattuga</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Venosa
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Salsa di taleggio e rucola, lattuga, speck alto atesino</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Villanova
+
+                            
+    
+                        </td>
+                        <td class="ItemDescription">Coppa di Parma, lattuga, formaggio di Asiago</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+    </table>
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Primi piatti al forno
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Lasagne alla bolognese</td>
+                        <td class="ItemDescription">Lasagne con ragù di maiale e vitellone</td>
+                        <td class="ItemPrice">&euro; 6,50</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Lasagne funghi e tratufo</td>
+                        <td class="ItemDescription">Lasagne bianche con funghi e salsa tarufata</td>
+                        <td class="ItemPrice">&euro; 6,50</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Melanzane alla parmigiana</td>
+                        <td class="ItemDescription">Parmigiana di melanzane soffritte in olio e abbondante mozzarella</td>
+                        <td class="ItemPrice">&euro; 6,50</td>
+                    </tr>
+                
+    </table>
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Pasta fresca con salse varie
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Ravioli al pesto</td>
+                        <td class="ItemDescription">Ravioli con ripieno di ricotta e prezzemolo e conditi con pesto fresco.</td>
+                        <td class="ItemPrice">&euro; 7,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Ravioli al tartufo</td>
+                        <td class="ItemDescription">Ravioli con ripieno di ricotta e prezzemolo e conditi con salsa funghi e tartufo.</td>
+                        <td class="ItemPrice">&euro; 7,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Gnocchi pomodoro e basilico</td>
+                        <td class="ItemDescription">Gnocchi conditi con salsa di pomodoro e basilico e cosparsi di grana padano.</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Fusilli all'arrabbiata</td>
+                        <td class="ItemDescription">Fusilli conditi con una salsa al pomodoro piccante</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Fusilli al Gorgonzola</td>
+                        <td class="ItemDescription">Fusilli conditi con una delicata crema al Gorgonzola</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Tagliatelle alla Bolognese</td>
+                        <td class="ItemDescription">Tagliatelle all'uovo condite con una tradizionale salsa Bolognese</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+    </table>
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Pizzeria e rosticceria
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Pizza margherita</td>
+                        <td class="ItemDescription">Mozzarella fresca e polpa di pomodoro</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Pizza al salame</td>
+                        <td class="ItemDescription">Mozzarella fresca, polpa di pomodoro e spianata piccante</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Pizza vegetariana</td>
+                        <td class="ItemDescription">Mozzarella fresca, polpa di pomodoro, rucola e verdure grigliate</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Calzone margherita</td>
+                        <td class="ItemDescription">Calzone margherita al forno</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Calzone calabrese</td>
+                        <td class="ItemDescription">Calzone con mozzarella e salame piccante al forno</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Rustico Leccese</td>
+                        <td class="ItemDescription">Pasta sfoglia farcita con polpa di pomodoro e mozzarella</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+    </table>
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Caffetteria e desserts
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Caffè espresso</td>
+                        <td class="ItemDescription">Equilibrio tra robusta ed arabica</td>
+                        <td class="ItemPrice">&euro; 1,20</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Caffè americano</td>
+                        <td class="ItemDescription">Morbido e delicato</td>
+                        <td class="ItemPrice">&euro; 1,20</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cappuccino</td>
+                        <td class="ItemDescription">La forza dell'espresso e la delicatezza della crema di latte</td>
+                        <td class="ItemPrice">&euro; 1,70</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Latte macchiato</td>
+                        <td class="ItemDescription">Latte intero con un velo di espresso</td>
+                        <td class="ItemPrice">&euro; 1,70</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cornetto vuoto</td>
+                        <td class="ItemDescription">Morbido e fragrante</td>
+                        <td class="ItemPrice">&euro; 1,30</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cornetto farcito</td>
+                        <td class="ItemDescription">Con farcitura alla crema o al cioccolato</td>
+                        <td class="ItemPrice">&euro; 1,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cannolo siciliano</td>
+                        <td class="ItemDescription">Con farcitura tradizionale alla ricotta o al cioccolato</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cannolicchio siciliano</td>
+                        <td class="ItemDescription">Con farcitura tradizionale alla ricotta o al cioccolato</td>
+                        <td class="ItemPrice">&euro; 1,50</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Tiramisù</td>
+                        <td class="ItemDescription">Secondo la ricetta tradizionale o al limoncello</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Panna cotta</td>
+                        <td class="ItemDescription">Leggera panna cotta ricoperta di glassa di frutti di bosco</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+    </table>
+
+            </div>
+            <div id="c2">
+                
+    <img id="ctl00_CphRightColumn_Rc05" src="https://www.caldiefreddi.nl/Images/Rc/RC05.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc01" src="Images/Rc/RC01.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc02" src="Images/Rc/RC02.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc07" src="Images/Rc/RC07.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc06" src="https://www.caldiefreddi.nl/Images/Rc/RC06.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc11" src="Images/Rc/RC11.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc12" src="https://www.caldiefreddi.nl/Images/Rc/RC12.jpg" border="0" />
+
+            </div>
+            <div id="footer" class="Fs13">
+                Caldi e freddi &#8226; Spuistraat 102, 1012VA Amsterdam &#8226; Tel: 020 3202024 &#8226; Mob: 06 38635518 &#8226; Email: info@caldiefreddi.nl
+            </div>
+        </div>
+    </form>
+
+
+</body>
+</html>

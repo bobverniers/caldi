@@ -1,0 +1,433 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+
+</title><link href="Css/MasterStyle.css" rel="stylesheet" type="text/css" /><link href="Css/Tagless.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NK4BMSFN1Z"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-NK4BMSFN1Z');
+    </script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="https://www.caldiefreddi.nl/MenuDutch.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTUxMDE4MzkyD2QWAmYPZBYCAgMPZBYEAgkPDxYEHghDc3NDbGFzcwUKSDJTZWxlY3RlZB4EXyFTQgICZGQCEA9kFgwCAQ8WAh4LXyFJdGVtQ291bnQCCxYWZg9kFgJmDxUDBEFsYmEmUnVjb2xhLCBwaWthbnRlIGthYXMsIGdlZ3JpbGRlIHBhcHJpa2EENCw5MGQCAQ9kFgJmDxUDCkNvbGxlcGFzc28kU2xhLCBnZXJvb2t0ZSBrYWFzLCBnZWdyaWxkZSBwYXByaWthBDQsOTBkAgIPZBYCZg8VAwpHb3Jnb256b2xhJEdvcmdvbnpvbGFjcsOobWUgLCBzbGEsIHdhbG5vdGVuc2F1cwQ0LDkwZAIDD2QWAmYPFQMGRGVydXRhNFN0cmFjY2hpbm8tZW4tcnVjb2xhY3LDqG1lLCBzbGEsIHpvbmdlZHJvb2dkZSB0b21hYXQENCw5MGQCBA9kFgJmDxUDCE1vbmRlbGxvI0J1ZmZlbG1venphcmVsbGEsIHRvbWFhdCwgcGVzdG9zYXVzBDQsOTBkAgUPZBYCZg8VAwlQYWxvbW9udGUpUHJvdm9sYS1rYWFzLCBydWNvbGEsIGdlZ3JpbGRlIGF1YmVyZ2luZXMENCw5MGQCBg9kFgJmDxUDB1JhcGFsbG8WU2xhLCBnZWdyaWxkZSBncm9lbnRlbgQ0LDkwZAIHD2QWAmYPFQMGU3BlbGxvK1N0cmFjY2hpbm8tZW4tdHJ1ZmZsZWNyw6htZSwgc2xhLCBjb3VyZ2V0dGUENCw5MGQCCA9kFgJmDxUDBFRvZGkpU3RyYWNjaGluby1rYWFzLCBydWNvbGEsIG9saWpmb2xpZSwgcGVwZXIENCw5MGQCCQ9kFgJmDxUDBVRyZXZpKUdlZ3JpbGRlIGdyb2VudGVuLCBzbGEsIGdyYW5hLXBhZGFuby1rYWFzBDQsOTBkAgoPZBYCZg8VAwhWZWxsZXRyaTBQZWNvcmluby1yb21hbm8ta2FhcywgZ2VncmlsZGUgY291cmdldHRlLCBydWNvbGEENCw5MGQCAw8WAh8CAg8WHmYPZBYCZg8VAwZBbWFsZmkiU2xhLCBnZW1hcmluZWVyZGUgYW5zam92aXMsIHRvbWFhdAQ0LDkwZAIBD2QWAmYPFQMHQW5kcmFubx9Nb3J0YWRlbGxhLCBnZWdyaWxkZSBhdWJlcmdpbmVzBDQsOTBkAgIPZBYCZg8VAwZBcnBpbm8lUGFuY2V0dGEsIHJ1Y29sYSwgem9uZ2Vkcm9vZ2RlIHRvbWFhdAQ0LDkwZAIDD2QWAmYPFQMHQ2FyaWF0aTtTcGlhbmF0YSBjYWxhYnJlc2UsIGdlcm9va3RlIGNhY2lvY2F2YWxsby1rYWFzLCBzbGEsIHRvbWFhdAQ0LDkwZAIED2QWAmYPFQMHQ29ydG9uYSRQYXJtYS1oYW0sIG1venphcmVsbGEsIHRvbWFhdCwgcGVzdG8ENCw5MGQCBQ9kFgJmDxUDB0Nvc3Rhbm8oUG9yY2hldHRhLCBzbGEsIGFydGlzam9ra2VuIGluIG9saWpmb2xpZQQ0LDkwZAIGD2QWAmYPFQMGR3ViYmlvIlBhcm1hLWhhbSwgc3RyYWNjaGluby1rYWFzLCBydWNvbGEENCw5MGQCBw9kFgJmDxUDCE1hZGVzaW1vPkJyZXNhb2xhLCBncmFuYS1wYWRhbm8ta2FhcywgcnVjb2xhLCBjaXRyb2VuLCBvbGlqZm9saWUsIHBlcGVyBDQsOTBkAggPZBYCZg8VAwVQYXJtYR5QYXJtYWhhbSwgcHJvdm9sYS1rYWFzLCB0b21hYXQENCw5MGQCCQ9kFgJmDxUDB1Jvc3Nhbm8lS25vZmxvb2tzYWxhbWksIHNsYSwgZ2VncmlsZGUgcGFwcmlrYQQ0LDkwZAIKD2QWAmYPFQMHU3BvbGV0bzpTcGlhbmF0YSByb21hbmEsIHByb3ZvbGEta2FhcywgcnVjb2xhLCBnZWdyaWxkZSBhdWJlcmdpbmVzBDQsOTBkAgsPZBYCZg8VAwhUYW9ybWluYSVUb25pam5jcsOobWUsIHNsYSwgdG9tYWF0LCBrYXBwZXJ0amVzBDQsOTBkAgwPZBYCZg8VAwVUcmFuaR1Nb3J0YWRlbGxhLCBwaWthbnRlIGthYXMsIHNsYQQ0LDkwZAIND2QWAmYPFQMGVmVub3NhMVRhbGVnZ2lvLWVuLXJ1Y29sYWNyw6htZSwgc2xhLCB6dWlkdGlyb29sc2Ugc3BlY2sENCw5MGQCDg9kFgJmDxUDCVZpbGxhbm92YSBDb3BwYSBkaSBQYXJtYSwgc2xhLCBBc2lhZ28ta2FhcwQ0LDkwZAIFDxYCHwICAxYGZg9kFgJmDxUDFkxhc2FnbmUgYWxsYSBib2xvZ25lc2U0TGFzYWduZSBtZXQgdG9tYXRlbnNhdXMgbWV0IHZhcmtlbnMtIGVuIHJ1bmRlcmdlaGFrdAQ2LDUwZAIBD2QWAmYPFQMYTGFzYWduZSBmdW5naGkgZSB0cmF0dWZvLFdpdHRlIGxhc2FnbmUgbWV0IGNoYW1waWdub25zIGVuIHRydWZmZWxzYXVzBDYsNTBkAgIPZBYCZg8VAxlNZWxhbnphbmUgYWxsYSBwYXJtaWdpYW5hM0F1YmVyZ2luZS1vdmVuc2Nob3RlbCBtZXQgdG9tYXRlbnNhdXMgZW4gbW96emFyZWxsYQQ2LDUwZAIHDxYCHwICBhYMZg9kFgJmDxUDFlJhdmlvbGkgbWV0IHBlc3RvIHNhdXNaVmVyc2UgcmF2aW9saSBnZXZ1bGQgbWV0IHJpY290dGEga2FhcyBlbiBwZXRlcnNlbGllIGVuIGdlZ2FybmVlcmQgbWV0IGVlbiB2ZXJzZSBwZXN0b3NhdXMuBDcsMDBkAgEPZBYCZg8VAxhSYXZpb2xpIG1ldCB0cnVmZmVsIHNhdXNTVmVyc2UgcmF2aW9saSBnZXZ1bGQgbWV0IHJpY290dGEga2FhcyBlbiBwZXRlcnNlbGllIGVuIGdlZ2FybmVlcmQgbWV0IHRydWZmZWwgc2F1cy4ENywwMGQCAg9kFgJmDxUDF0dub2NjaGkgbWV0IHRvbWF0ZW5zYXVzQ0dub2NjaGkgZ2VnYXJuZWVyZCBtZXQgdG9tYXRlbnNhdXMsIGJhc2lsaWN1bSBlbiBncmFuYSBwYWRhbm8ga2Fhcy4ENiwwMGQCAw9kFgJmDxUDFkZ1c2lsbGkgYWxsJ2FycmFiYmlhdGEuRnVzaWxsaSBnZWdhcm5lZXJkIG1ldCBlZW4gcGl0dGlnZSB0b21hdGVuc2F1cwQ2LDAwZAIED2QWAmYPFQMVRnVzaWxsaSBhbCBHb3Jnb256b2xhNkZ1c2lsbGkgZ2VnYXJuZWVyZCBtZXQgZWVuIHNtYWtlbGlqa2UgR29yZ29uem9sYS1zYXVzLgQ2LDAwZAIFD2QWAmYPFQMaVGFnbGlhdGVsbGUgYWxsYSBCb2xvZ25lc2U+VGFnbGlhdGVsbGUgYWxsJ3Vvdm8gKGVpZXJwYXN0YSkgZ2VnYXJuZWVyZCBtZXQgQm9sb2duZXNlIHNhdXMENiwwMGQCCQ8WAh8CAgYWDGYPZBYCZg8VAxRQaXp6YXB1bnQgbWFyZ2hlcml0YRlNb3p6YXJlbGxhIGVuIHRvbWF0ZW5zYXVzBDIsODBkAgEPZBYCZg8VAxBQaXp6YXB1bnQgc2FsYW1pJE1venphcmVsbGEsIHRvbWFhdCBlbiBwaXR0aWdlIHNhbGFtaQQyLDgwZAICD2QWAmYPFQMWUGl6emFwdW50IG1ldCBncm9lbnRlbjRNb3p6YXJlbGxhLCB0b21hdGVuc2F1cywgcnVjb2xhIGVuIGdlZ3JpbGRlIGdyb2VudGVuBDIsODBkAgMPZBYCZg8VAxJDYWx6b25lIG1hcmdoZXJpdGExQ2Fsem9uZSBtZXQgbW96emFyZWxsYSBlbiB0b21hdGVuc2F1cyB1aXQgZGUgb3ZlbgQyLDgwZAIED2QWAmYPFQMRQ2Fsem9uZSBjYWxhYnJlc2U0Q2Fsem9uZSBtZXQgbW96emFyZWxsYSBlbiBwaXR0aWdlIHNhbGFtaSB1aXQgZGUgb3ZlbgQyLDgwZAIFD2QWAmYPFQMPUnVzdGljbyBMZWNjZXNlNkJsYWRlcmRlZWdicm9vZGplIGdldnVsZCBtZXQgbW96emFyZWxsYSBlbiB0b21hdGVuc2F1cwQyLDgwZAILDxYCHwICChYUZg9kFgJmDxUDD0NhZmbDqCBlc3ByZXNzbxxSb2J1dXN0ZSBlbiBhcmFiaWNhLWVzcHJlc3NvBDEsMjBkAgEPZBYCZg8VAxBDYWZmw6ggYW1lcmljYW5vEVphY2h0IGVuIGRlbGljYWF0BDEsMjBkAgIPZBYCZg8VAwpDYXBwdWNjaW5vI0VzcHJlc3NvLWtvZmZpZSBtZXQgc2NodWltZW5kZSBtZWxrBDEsNzBkAgMPZBYCZg8VAw9Lb2ZmaWUgdmVya2VlcmQpVm9sbGUgbWVsayBtZXQgZWVuIGJlZXRqZSBlc3ByZXNzby1rb2ZmaWUEMSw3MGQCBA9kFgJmDxUDEU5hdHVyZWwgY3JvaXNzYW50F1phY2h0ZSwgem9ldGUgY3JvaXNzYW50BDEsMzBkAgUPZBYCZg8VAxFHZXZ1bGRlIGNyb2lzc2FudCJNZXQgYWxzIHZ1bGxpbmcgdmFuaWxsZSBvZiBjaG9jb2xhBDEsODBkAgYPZBYCZg8VAxFDYW5ub2xvIHNpY2lsaWFubzhNZXQgdHJhZGl0aW9uZWxlIHJpY290dGEtdnVsbGluZyBvZiBtZXQgY2hvY29sYWRldnVsbGluZwQyLDgwZAIHD2QWAmYPFQMYS2xlaW5lIGNhbm5vbG8gc2ljaWxpYW5vOE1ldCB0cmFkaXRpb25lbGUgcmljb3R0YS12dWxsaW5nIG9mIG1ldCBjaG9jb2xhZGV2dWxsaW5nBDEsNTBkAggPZBYCZg8VAwlUaXJhbWlzw7k/TWFzY2FycG9uZWRlc3NlcnQgdm9sZ2VucyB0cmFkaXRpb25lZWwgcmVjZXB0IG9mIG1ldCBsaW1vbmNlbGxvBDIsODBkAgkPZBYCZg8VAwtQYW5uYSBjb3R0YSlMaWNodGUgcm9vbSBvdmVyZGVrdCBtZXQgYm9zdnJ1Y2h0ZW5nZWxlaQQyLDgwZGRBEITIr6H8ZAocwYpZxpl69Kr9D1HvOxSc+tG2ll9DEw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5BDF3209" />
+        <div id="outer">
+            <div id="header">
+                <a id="ctl00_HypWebsiteLogo" href="index.html"><img id="ctl00_ImgWebsiteLogo" class="Logo" src="Images/Design/Header.jpg" border="0" /></a>
+            </div>
+            <div id="subheader">
+                <div class="FlL">
+
+                    <a id="ctl00_Hyp_Home" class="H2" href="home">Home</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInEnglish" class="H2" href="menuinenglish">Menu in English</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInDutch" class="H2Selected" href="menuinhetnederlands">Menu in het Nederlands</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInItalian" class="H2" href="menuinitaliano">Menu in Italiano</a><div class="HorizontalSeparator">|</div>
+                    
+                    <a id="ctl00_Hyp_Contact" class="H2" href="contact">Contact</a>
+                    <div class="OpeningHours" style="font-weight:bold;">Mon-Fri: 9.00-17.30 * Sat-Sun: closed</div>
+                </div>
+            </div>
+            <div id="c1">
+                
+
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Onze vegetarische broodjes
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Alba</td>
+                        <td class="ItemDescription">Rucola, pikante kaas, gegrilde paprika</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Collepasso</td>
+                        <td class="ItemDescription">Sla, gerookte kaas, gegrilde paprika</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Gorgonzola</td>
+                        <td class="ItemDescription">Gorgonzolacrème , sla, walnotensaus</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Deruta</td>
+                        <td class="ItemDescription">Stracchino-en-rucolacrème, sla, zongedroogde tomaat</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Mondello</td>
+                        <td class="ItemDescription">Buffelmozzarella, tomaat, pestosaus</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Palomonte</td>
+                        <td class="ItemDescription">Provola-kaas, rucola, gegrilde aubergines</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Rapallo</td>
+                        <td class="ItemDescription">Sla, gegrilde groenten</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Spello</td>
+                        <td class="ItemDescription">Stracchino-en-trufflecrème, sla, courgette</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Todi</td>
+                        <td class="ItemDescription">Stracchino-kaas, rucola, olijfolie, peper</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Trevi</td>
+                        <td class="ItemDescription">Gegrilde groenten, sla, grana-padano-kaas</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Velletri</td>
+                        <td class="ItemDescription">Pecorino-romano-kaas, gegrilde courgette, rucola</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+    </table>
+
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Onze broodjes met vleeswaren
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Amalfi</td>
+                        <td class="ItemDescription">Sla, gemarineerde ansjovis, tomaat</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Andrano</td>
+                        <td class="ItemDescription">Mortadella, gegrilde aubergines</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Arpino</td>
+                        <td class="ItemDescription">Pancetta, rucola, zongedroogde tomaat</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cariati</td>
+                        <td class="ItemDescription">Spianata calabrese, gerookte caciocavallo-kaas, sla, tomaat</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cortona</td>
+                        <td class="ItemDescription">Parma-ham, mozzarella, tomaat, pesto</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Costano</td>
+                        <td class="ItemDescription">Porchetta, sla, artisjokken in olijfolie</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Gubbio</td>
+                        <td class="ItemDescription">Parma-ham, stracchino-kaas, rucola</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Madesimo</td>
+                        <td class="ItemDescription">Bresaola, grana-padano-kaas, rucola, citroen, olijfolie, peper</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Parma</td>
+                        <td class="ItemDescription">Parmaham, provola-kaas, tomaat</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Rossano</td>
+                        <td class="ItemDescription">Knoflooksalami, sla, gegrilde paprika</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Spoleto</td>
+                        <td class="ItemDescription">Spianata romana, provola-kaas, rucola, gegrilde aubergines</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Taormina</td>
+                        <td class="ItemDescription">Tonijncrème, sla, tomaat, kappertjes</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Trani</td>
+                        <td class="ItemDescription">Mortadella, pikante kaas, sla</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Venosa</td>
+                        <td class="ItemDescription">Taleggio-en-rucolacrème, sla, zuidtiroolse speck</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Villanova</td>
+                        <td class="ItemDescription">Coppa di Parma, sla, Asiago-kaas</td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+    </table>
+
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Ovenpasta's
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Lasagne alla bolognese</td>
+                        <td class="ItemDescription">Lasagne met tomatensaus met varkens- en rundergehakt</td>
+                        <td class="ItemPrice">&euro; 6,50</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Lasagne funghi e tratufo</td>
+                        <td class="ItemDescription">Witte lasagne met champignons en truffelsaus</td>
+                        <td class="ItemPrice">&euro; 6,50</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Melanzane alla parmigiana</td>
+                        <td class="ItemDescription">Aubergine-ovenschotel met tomatensaus en mozzarella</td>
+                        <td class="ItemPrice">&euro; 6,50</td>
+                    </tr>
+                
+    </table>
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Verse pasta's met verschillende saucen
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Ravioli met pesto saus</td>
+                        <td class="ItemDescription">Verse ravioli gevuld met ricotta kaas en peterselie en gegarneerd met een verse pestosaus.</td>
+                        <td class="ItemPrice">&euro; 7,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Ravioli met truffel saus</td>
+                        <td class="ItemDescription">Verse ravioli gevuld met ricotta kaas en peterselie en gegarneerd met truffel saus.</td>
+                        <td class="ItemPrice">&euro; 7,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Gnocchi met tomatensaus</td>
+                        <td class="ItemDescription">Gnocchi gegarneerd met tomatensaus, basilicum en grana padano kaas.</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Fusilli all'arrabbiata</td>
+                        <td class="ItemDescription">Fusilli gegarneerd met een pittige tomatensaus</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Fusilli al Gorgonzola</td>
+                        <td class="ItemDescription">Fusilli gegarneerd met een smakelijke Gorgonzola-saus.</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Tagliatelle alla Bolognese</td>
+                        <td class="ItemDescription">Tagliatelle all'uovo (eierpasta) gegarneerd met Bolognese saus</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+    </table>
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Pizza's en calzoni
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Pizzapunt margherita</td>
+                        <td class="ItemDescription">Mozzarella en tomatensaus</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Pizzapunt salami</td>
+                        <td class="ItemDescription">Mozzarella, tomaat en pittige salami</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Pizzapunt met groenten</td>
+                        <td class="ItemDescription">Mozzarella, tomatensaus, rucola en gegrilde groenten</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Calzone margherita</td>
+                        <td class="ItemDescription">Calzone met mozzarella en tomatensaus uit de oven</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Calzone calabrese</td>
+                        <td class="ItemDescription">Calzone met mozzarella en pittige salami uit de oven</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Rustico Leccese</td>
+                        <td class="ItemDescription">Bladerdeegbroodje gevuld met mozzarella en tomatensaus</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+    </table>
+    
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                Koffie en desserts
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Caffè espresso</td>
+                        <td class="ItemDescription">Robuuste en arabica-espresso</td>
+                        <td class="ItemPrice">&euro; 1,20</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Caffè americano</td>
+                        <td class="ItemDescription">Zacht en delicaat</td>
+                        <td class="ItemPrice">&euro; 1,20</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cappuccino</td>
+                        <td class="ItemDescription">Espresso-koffie met schuimende melk</td>
+                        <td class="ItemPrice">&euro; 1,70</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Koffie verkeerd</td>
+                        <td class="ItemDescription">Volle melk met een beetje espresso-koffie</td>
+                        <td class="ItemPrice">&euro; 1,70</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Naturel croissant</td>
+                        <td class="ItemDescription">Zachte, zoete croissant</td>
+                        <td class="ItemPrice">&euro; 1,30</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Gevulde croissant</td>
+                        <td class="ItemDescription">Met als vulling vanille of chocola</td>
+                        <td class="ItemPrice">&euro; 1,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cannolo siciliano</td>
+                        <td class="ItemDescription">Met traditionele ricotta-vulling of met chocoladevulling</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Kleine cannolo siciliano</td>
+                        <td class="ItemDescription">Met traditionele ricotta-vulling of met chocoladevulling</td>
+                        <td class="ItemPrice">&euro; 1,50</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Tiramisù</td>
+                        <td class="ItemDescription">Mascarponedessert volgens traditioneel recept of met limoncello</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Panna cotta</td>
+                        <td class="ItemDescription">Lichte room overdekt met bosvruchtengelei</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+    </table>
+    
+
+            </div>
+            <div id="c2">
+                
+    <img id="ctl00_CphRightColumn_Rc05" src="https://www.caldiefreddi.nl/Images/Rc/RC05.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc01" src="Images/Rc/RC01.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc02" src="Images/Rc/RC02.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc07" src="Images/Rc/RC07.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc06" src="https://www.caldiefreddi.nl/Images/Rc/RC06.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc11" src="Images/Rc/RC11.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc12" src="https://www.caldiefreddi.nl/Images/Rc/RC12.jpg" border="0" />
+
+            </div>
+            <div id="footer" class="Fs13">
+                Caldi e freddi &#8226; Spuistraat 102, 1012VA Amsterdam &#8226; Tel: 020 3202024 &#8226; Mob: 06 38635518 &#8226; Email: info@caldiefreddi.nl
+            </div>
+        </div>
+    </form>
+
+
+</body>
+</html>

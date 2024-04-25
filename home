@@ -1,0 +1,184 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+
+</title><link href="http://www.caldiefreddi.nl/Css/MasterStyle.css" rel="stylesheet" type="text/css" /><link href="Css/Tagless.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NK4BMSFN1Z"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-NK4BMSFN1Z');
+    </script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="http://www.caldiefreddi.nl/Default.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzQyODc2OTU0D2QWAmYPZBYCAgMPZBYEAgUPDxYEHghDc3NDbGFzcwUKSDJTZWxlY3RlZB4EXyFTQgICZGQCEA9kFgICCg8WAh4LXyFJdGVtQ291bnQCDBYYZg9kFgJmDxUDCFNhbmR3aWNoGFN0dWZmZWQgaW4gdmFyaW91cyB3YXlzIAQ0LDkwZAIBD2QWAmYPFQMOU2FuZHdpY2ggZXh0cmEhU2FtZSBzaXplIGJ1dCBleHRyYSByaWNoIHN0dWZmaW5nBDYsNDBkAgIPZBYCZg8VAwtQaXp6YSBzbGljZSJFdmVyeSBkYXkgc2V2ZXJhbCB0eXBlcyBvZiBnYXJuaXNoBDIsODBkAgMPZBYCZg8VAwdDYWx6b25lGFRyYWRpdGlvbmFsIGZvbGRlZCBwaXp6YQQyLDgwZAIED2QWAmYPFQMPUnVzdGljbyBsZWNjZXNlJlB1ZmYgcGFzdHJ5IHdpdGggdG9tYXRvIGFuZCBtb3p6YXJlbGxhBDIsODBkAgUPZBYCZg8VAwxQcmltbyBwaWF0dG83VmFyaW91cyB0eXBlcyBhbmQgc2F1Y2VzOiBwZW5uZSwgbGFzYWduZSwgcmljZSwgZ25vY2NoaQQ2LDAwZAIGD2QWAmYPFQMKTWVhdCBiYWxscyhUcmFkaXRpb25hbCBtZWF0IGJhbGxzIHdpdGggdG9tYXRvIHNhdWNlBDIsNTBkAgcPZBYCZg8VAwdEZXNzZXJ0H1RpcmFtaXPDuSwgcGFubmEgY290dGEsIGNhbm5vbG8EMiw4MGQCCA9kFgJmDxUDBkNvZmZlZRZFc3ByZXNzbyBhbmQgYW1lcmljYW5vBDEsMjBkAgkPZBYCZg8VAwpDYXBwdWNjaW5vJENyZWFteSBjYXBwdWNjaW5vIHdpdGggc3Ryb25nIGNvZmZlZQQxLDcwZAIKD2QWAmYPFQMPU2ltcGxlIGNvcm5ldHRvIExpZ2h0IGFuZCBzb2Z0IGl0YWxpYW4gY3JvaXNzYW50BDEsMzBkAgsPZBYCZg8VAxBTdHVmZmVkIGNvcm5ldHRvKUl0YWxpYW4gY3JvaXNzYW50IHN0dWZmZWQgaW4gdmFyaW91cyB3YXlzBDEsODBkZEgK1frU9z1xaqCBfejahg+rohWcsXyUnoGd3kzMnceB" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+        <div id="outer">
+            <div id="header">
+                <a id="ctl00_HypWebsiteLogo" href="index.html"><img id="ctl00_ImgWebsiteLogo" class="Logo" src="http://www.caldiefreddi.nl/Images/Design/Header.jpg" border="0" /></a>
+            </div>
+            <div id="subheader">
+                <div class="FlL">
+    
+
+                    <a id="ctl00_Hyp_Home" class="H2Selected" href="home">Home</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInEnglish" class="H2" href="http://www.caldiefreddi.nl/menuinenglish">Menu in English</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInDutch" class="H2" href="http://www.caldiefreddi.nl/menuinhetnederlands">Menu in het Nederlands</a><div class="HorizontalSeparator">|</div>
+                    <a id="ctl00_Hyp_MenuInItalian" class="H2" href="http://www.caldiefreddi.nl/menuinitaliano">Menu in Italiano</a><div class="HorizontalSeparator">|</div>
+                    
+                    <a id="ctl00_Hyp_Contact" class="H2" href="http://www.caldiefreddi.nl/contact">Contact</a>
+                    <div class="OpeningHours" style="font-weight:bold;">Mon-Fri: 9.00-17.30 * Sat-Sun: closed</div>
+                </div>
+            </div>
+            <div id="c1">
+                
+ 
+    
+    
+    
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <table class="EditorialFullWidth">
+        <tr>
+            <td class="Header HeaderLeft">Orders via Whatsapp</td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="padding:10px; font-size:14px;" >
+               We accept orders via Whatsapp for a minimum amount of <span style="color:red; font-weight:bold;">30,00 euro</span><br /><br />
+                
+                &bull; Please, place your order at least <span style="color:red; font-weight:bold;">40 minutes in advance</span><br />
+                &bull; Be aware that even with an order, <span style="color:red; font-weight:bold;">we can't let you skip the line</span> (if any)<br />
+                &bull; Please, mention in the order <span style="color:red; font-weight:bold;">your name</span> and the <span style="color:red; font-weight:bold;">pick-up time</span> <br />
+                &bull; Our WhatsApp number is <span style="color:red; font-weight:bold;">+31 6 38635518</span><br />
+            </td>
+        </tr>
+    </table>
+
+    
+
+    
+
+    <table class="Menu">
+        <tr>
+            <td colspan="2" class="Header HeaderLeft">
+                A quick overview of our products
+            </td>
+            <td class="Header HeaderRight"></td>
+        </tr>
+            
+                    <tr>
+                        <td class="ItemName">Sandwich</td>
+                        <td class="ItemDescription">Stuffed in various ways </td>
+                        <td class="ItemPrice">&euro; 4,90</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Sandwich extra</td>
+                        <td class="ItemDescription">Same size but extra rich stuffing</td>
+                        <td class="ItemPrice">&euro; 6,40</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Pizza slice</td>
+                        <td class="ItemDescription">Every day several types of garnish</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Calzone</td>
+                        <td class="ItemDescription">Traditional folded pizza</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Rustico leccese</td>
+                        <td class="ItemDescription">Puff pastry with tomato and mozzarella</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Primo piatto</td>
+                        <td class="ItemDescription">Various types and sauces: penne, lasagne, rice, gnocchi</td>
+                        <td class="ItemPrice">&euro; 6,00</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Meat balls</td>
+                        <td class="ItemDescription">Traditional meat balls with tomato sauce</td>
+                        <td class="ItemPrice">&euro; 2,50</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Dessert</td>
+                        <td class="ItemDescription">Tiramisù, panna cotta, cannolo</td>
+                        <td class="ItemPrice">&euro; 2,80</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Coffee</td>
+                        <td class="ItemDescription">Espresso and americano</td>
+                        <td class="ItemPrice">&euro; 1,20</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Cappuccino</td>
+                        <td class="ItemDescription">Creamy cappuccino with strong coffee</td>
+                        <td class="ItemPrice">&euro; 1,70</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Simple cornetto</td>
+                        <td class="ItemDescription">Light and soft italian croissant</td>
+                        <td class="ItemPrice">&euro; 1,30</td>
+                    </tr>
+                
+                    <tr>
+                        <td class="ItemName">Stuffed cornetto</td>
+                        <td class="ItemDescription">Italian croissant stuffed in various ways</td>
+                        <td class="ItemPrice">&euro; 1,80</td>
+                    </tr>
+                
+    </table>
+   
+
+            </div>
+            <div id="c2">
+                
+    <img id="ctl00_CphRightColumn_Rc01" src="Images/Rc/RC01.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc02" src="http://www.caldiefreddi.nl/Images/Rc/RC02.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc03" src="Images/Rc/RC03.jpg" border="0" />
+    <img id="ctl00_CphRightColumn_Rc04" src="http://www.caldiefreddi.nl/Images/Rc/RC04.jpg" border="0" />
+
+            </div>
+            <div id="footer" class="Fs13">
+                Caldi e freddi &#8226; Spuistraat 102, 1012VA Amsterdam &#8226; Tel: 020 3202024 &#8226; Mob: 06 38635518 &#8226; Email: info@caldiefreddi.nl
+            </div>
+        </div>
+    </form>
+
+
+</body>
+</html>
